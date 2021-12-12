@@ -40,7 +40,7 @@
                                 <thead class="thead">
                                     <tr>
                                         <th>No</th>
-                                        
+
 										<th>Names</th>
 										<th>Lastnames</th>
 										<th>Birthdate</th>
@@ -52,7 +52,7 @@
                                     @foreach ($administrators as $administrator)
                                         <tr>
                                             <td>{{ ++$i }}</td>
-                                            
+
 											<td>{{ $administrator->names }}</td>
 											<td>{{ $administrator->lastnames }}</td>
 											<td>{{ $administrator->birthdate }}</td>

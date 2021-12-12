@@ -16,6 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('acercade', function () {
+    return view('acercade');
+});
 
 Auth::routes();
 
@@ -30,4 +33,4 @@ Route::resource('paters',App\Http\Controllers\PaterController::class);
 Route::resource('courses',App\Http\Controllers\CourseController::class);
 
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/Home', [App\Http\Controllers\HomeController::class, 'index'])->name('tecnos');

@@ -1,0 +1,54 @@
+    .row {
+        height: 300px;
+        background-color: powderblue;
+    }
+    
+    .col-md-4 {
+        background-color: #D6EAF8;
+    }
+    
+    .col-md-8 {
+        background-color: #D6EAF8;
+        background-image: url("/images/news2.png");
+        padding: 5px;
+        border-radius: 5px 5px;
+    }
+    
+    .container {
+        padding: 10px;
+        background-color: powderblue;
+    }
+    
+    .img1 {
+        width: 300px;
+        height: 300px;
+    }
+    
+    .card-group {
+        height: auto;
+        background-color: powderblue;
+    }
+    
+    .card-img-top {
+        width: auto;
+        height: 250px;
+    }
+    
+    .cardimg1 {
+        width: 220px;
+        height: 200px;
+    }
+    
+    .card1 {
+        position: absolute;
+        right: 15px;
+        height: auto;
+        width: 220px;
+        background-color: #D6EAF8;
+        border-radius: 7px;
+        justify-content: center;
+    }
+    
+    .btn {
+        justify-content: center;
+    }

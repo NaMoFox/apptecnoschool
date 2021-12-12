@@ -7,6 +7,7 @@
 @stop
 
 @section('content')
+<p>hola que hace</p>
 @stop
 
 @section('css')
