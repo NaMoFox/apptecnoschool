@@ -244,7 +244,13 @@ return [
         // Sidebar items:
 
 
-        ['header' => 'Usuarios'],
+        ['header' => 'Administrador'],
+        [
+            'text' => 'Usuarios',
+            'url'  => 'admin.users.index',
+            'icon' => 'fas fa-fw fa-user',
+
+        ],
         [
             'text' => 'Administrador',
             'url'  => 'administrators',
