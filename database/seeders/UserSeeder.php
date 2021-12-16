@@ -24,19 +24,19 @@ class UserSeeder extends Seeder
             'name'=>'Docente',
             'email'=> 'docente123@gmail.com',
             'password' =>bcrypt('748159263')
-        ])->assignRole('Admin');
+        ])->assignRole('Docente');
 
         User::create([
             'name'=>'Estudiante',
             'email'=> 'estudiante123@gmail.com',
             'password' =>bcrypt('748159263')
-        ])->assignRole('Admin');
+        ])->assignRole('Estudiante');
 
         User::create([
             'name'=>'Acuediente',
             'email'=> 'acudiente123@gmail.com',
             'password' =>bcrypt('748159263')
-        ])->assignRole('Admin');
+        ])->assignRole('Padre');
 
         User::factory(9)->create();
     }
