@@ -73,7 +73,7 @@
                 <div class="card">
                   <img src="{{asset('images/lista.png')}}" class="card-img-top" alt="...">
                   <div class="card-body">
-                    <a href="#" class="btn btn-success ">Inscribete ahora</a>
+                    <a href="#" class="btn btn-success ">Inscribete ahora!!</a>
                   </div>
                 </div>
                 <div class="card">
