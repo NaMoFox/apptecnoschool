@@ -24,7 +24,7 @@
 <!--navbar-->
 <nav class="navbar navbar-expand-lg  bg-primary bg-gradient">
     <div class="container-fluid">
-      <a class="navbar-brand link-light" aria-current="page"href="/">Tecnoschool</a>
+      <a class="navbar-brand link-light" aria-current="page"href="/">TECNOSCHOOL</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -70,7 +70,7 @@
           <tr>
             <th scope="col">#</th>
             <th scope="col">First..</th>
-            <th scope="col">Last</th>
+            <th scope="col">Last..</th>
             <th scope="col">Handle</th>
           </tr>
         </thead>
