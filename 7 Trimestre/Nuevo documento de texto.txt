@@ -1,0 +1,227 @@
+como funciona la empresa
+1 primer momento de un prpoblema es la descripcion de la empresa recurso de apoyo - muestra una direccion describir empresa en primer diapositiva (quienes somos)
+2 descripcion del problemas como funciona la empresa describir procesos con erramientas de recoleccion de informacion
+3 encontrar las necesidades de la empresa (procesos)
+TRES GRANDES PREGUNTAS QUE DEBEN RESOLVERCE EN UN PROBLEMA DE UNA EMPRESA
+
+sistema de informacion web
+es un recurso de apollo
+para donde va a futuro 
+
+
+
+
+
+
+
+
+
+
+OBJETIVOS ESPECIFICOS (asosiados a diagramas de casos de uso)
+PRIMER OBJETIVO gestion de los usuarios de la empresa 
+termina en vervo infi}}nitivo 
+
+ar er ir
+
+2 gestionar informes, los objetivos se deven alcanzar, 
+
+objetivo general
+se divide en los procesos
+cada proceso es un oblas tareas tienen evidencias
+Objetivo, Actividad, Tarea, Evidencia
+cada uno de los objetivos se combierte en un diagrama de casos de uso
+
+el diagrama de casos de uso (funcionalidades del sistema)
+
+
+JUSTIFICACION
+se basa en describir la solucion (un sistema de unformacion) reasaltar beneficios y beneficiados
+descripcion del proyecto echo beneficios
+
+
+
+
+
+ALCANCE
+que hace el sistema puntualmente, el sistema va a gestionar tal y tal pero no va a llevar nomina 
+hasta donde abarca, cuanto tiempo, lista de chequeo, que se va  a hacer en cada trimestre y cual es la evidencia
+ ultimo un parrafo mencionando las tencologias que vamos a implementar
+
+
+diagrama de casoso de uso
+requisitos funcionales 
+modelo relacional
+DIAGRAMA DE PROCESOS
+DIAGRAMA DE CASOS DE USO
+procesos,objetivos,modulos similares
+
+
+proponer diagramas de casos de uso
+son propuestas funcionales, inician con un verbo en infinitivo realcionadas con un sustantivo
+"crear o registrar un usuario, consultar usuarios"
+ 
+casos de uso representa la funcionalidad del sistema
+diagrama de procesos
+ 
+1 sistema (todos los casos de uso)
+2 actor()
+3 modular()
+el diagrama debe cumplir con lo que se quiere hacer
+
+fontera con nombre, casoso de uso, actores,
+
+
+CASO DE USO EXTENDIDO
+caso01 
+crear usuario
+version 1 fecha
+actores, administrador, cliente, tecnico para crear usuario
+onjetivos asociados
+vienen de la presentacion, gestionar
+
+
+
+
+
+REQUISITOS FUNCIONALES 
+RF03_CU03 - El Sistema debe permitr al administrador consultar usuarios
+todos los casos de uso son requisitos funcionales del sistema
+pero no todos los requisitos funcionales son casos de uso
+el sistema deve permitir al cliente registrar o crear una compra
+
+LOS REQUISITOS NO FUNCIONALES apuntan a la calidad del software QUE SEA EVALUABLE Y QUE SEA MEDIBLE (HASTA QUE PUNTO SE ADAPTA )
+
+el sistema debe permitir su instalacion en otro servidor de aplicaciones
+el sistema dedb funcionar 24/7
+el sistema debe garantizar los datos del usuario en el tiempo
+el sistema debe permitir abrirse en diferentes navegadores
+el sistema debe permitir visualizarce en cualquier dispositivo usabilidad
+el sistema debe contar con una interfaz que permita realizar las acciones del sistema 
+
+
+
+
+
+INFORMACION DE DONDE SE ALMACENAN LOS DATOS
+que datos se requieren por cada una de las funciones que determinamos
+
+MER modelo entidad relacion DISEÑO CONCEPTUAL DE LA BASE DE DATOS diseño conceptual
+MR modelo relacional TABLAS Y TABLAS PUENTE diseño logico
+
+diagrama de clases, DISEÑO PROGRAMACION ORIENTADA A OBJETOS
+
+
+NORMALIZACION DE BASE DE DATOS EN 3 FORMA NORMAL
+que el dato sea atomico
+que no tenga dependencias transistorias
+que no sean transitivas(sin dependencias)<
+
+
+paradigma de programacion orientada a objetos 
+modelo DAO 
+modelo DTO
+Patrones de diseño: Arquitectura n capas, MVC, DAO y DTO
+1.Curso básico algoritmos
+2.Lenguajes y Paradigmas
+3.Programación estructurada
+4.Programación POO
+5.Curso POO en PHP
+6.Manejo de datos PHP
+7.API REST PHP
+
+
+
+DIAGRAMA DE CLASES
+es un diagrama uml diagrama de modelaje 
+
+no resive parametros y no devuelve valores
+no resive parametros y retorna valores  GET 
+resive parametros y no retorna valores 
+
+
+
+Problema: 1. Descripción de la Empresa. 2. Describir el/los procesos (Técnicas e Instrumentos de Recolección de la Información. Descricpicón de la Técnico) 3. Análisis (Encontrar las necesidades de la Empresa/Proceso(s))
+
+
+
+
+
+
+
+
+
+21-feb-22
+Evidencias:
+1 - Informe con un (varios) diagrama(s) ditribución, redes, despliegue.
+documento
+2 - Matríz de proveedores de los elementos hasrdware y software (Excel)
+3 - Negociación:
+3.1. Términcos de referencia (documento)
+3.2. Invitación a cotizar (documento)
+3.3. Cuadro Evaluativo de Proveedores (Excel)
+3.4. Contrato (documento)
+3.5. ANEXOS: Documentación del Software 
+ - IEEE-830 ó Historias de Usuario
+- Documento Proyecto
+- Manual Técnico (Diagramas UML)
+- Manuales, planes, etc. (Documentos de los anteriores trimestres)
+- Manual de Usuario y de Instalación
+- Plan de Capacitación
+- Organización Financiera (Diagrama de Gantt, presupuesto, personal, inventario, costos) -> ¿Qué valor tiene el proyecto?
+
+
+
+
+Entregas asociadas a las Pruebas de Software:
+1 - Plan de Pruebas Maestro
+2 - Plan de Pruebas Funcionales (Casos de Prueba)
+EDWIN ALBEIRO RAMOS VILLAMIL20:58
+3 - Plan de Pruebas Unitarias
+4 - Plan de Pruebas de Integración
+5 - Plan de Pruebas de Aceptación
+
+
+
+
+diagrama de distribucion
+diagrama de redes
+diagrama de gannt
+informe de distribucion
+proveedores ,contrato de software
+
+
+
+
+
+
+
+
+
+Evidencias :
+1 - Informe con un (varios) diagrama(s) ditribución, redes, despliegue.
+Documento
+2 - Matríz de proveedores de los elementos hasrdware y software (Excel)
+3 - Negociación:
+3.1. Términcos de referencia (documento)
+3.2. Invitación a cotizar (documento)
+3.3. Cuadro Evaluativo de Proveedores (Excel)
+3.4. Contrato (documento)
+3.5. ANEXOS: Documentación del Software 
+ - IEEE-830 ó Historias de Usuario
+-Documento Proyecto
+- Manual Técnico (Diagramas UML)
+- Manuales, planes, etc. (Documentos
+
+
+
+
+
+
+
+
+1 DIAGRAMA DE DISTRIBUCION
+
+
+
+informe de distribucion
+contrato de software
